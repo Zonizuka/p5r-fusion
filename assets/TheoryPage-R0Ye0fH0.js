@@ -1,0 +1,1 @@
+import{ad as e,D as t,E as a,a2 as c,K as o}from"./index-DmD8aF87.js";const s={},r={class:"theory-page"},n=o("a",{href:"https://www.bilibili.com/read/cv19379754/",target:"_blank"},"P5R面具合成原理",-1);function _(d,i){return t(),a("div",r,[c(" 此页面尚在施工中,详细内容请查看"),n])}const f=e(s,[["render",_]]);export{f as default};
